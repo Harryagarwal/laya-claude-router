@@ -1,0 +1,26 @@
+# Laya model weights (2.4 GB — download separately via hf download)
+laya/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
